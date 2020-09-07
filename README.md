@@ -4,7 +4,7 @@
 
 ## Goal
 
-The objective of this Chat App was to learn how to incorporate Firebase into Flutter apps. We used Firebase Cloud Firestore as well as the Firebase authentication package to equip the app with a cloud-based NoSQL database and secure authentication methods. 
+The objective of this Chat App was to learn how to incorporate Firebase into Flutter apps. I used Firebase Cloud Firestore as well as the Firebase authentication package to equip the app with a cloud-based NoSQL database and secure authentication methods. 
 
 
 ## Final Output
